@@ -1,0 +1,21 @@
+.header-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.header-link-div{
+    display: flex;
+}
+.page-link{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    color: black;
+}
+.page-link >img{
+    width: 50px;
+    margin-right: 10px;
+}
+.page-link{
+    text-decoration: none;
+}
